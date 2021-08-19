@@ -7,10 +7,6 @@ Para utilizar o programa use:
 
 ```
 git clone https://github.com/viniciuslima21/megaSena.git
-
-npm run dev
-ou
-yarn dev
 ```
 
 ## Tecnologias utilizadas
