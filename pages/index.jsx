@@ -27,7 +27,7 @@ export default function Home() {
         <div className={styles.page}>
             <h1>MEGA-SENA</h1>
             <p>
-                Coloque a quantidade de números que deseja gerar e clique em 'Gerar'.
+                Coloque a quantidade de números que deseja gerar e clique em {"'Gerar'"}.
                 <br /> Os números vão de 1 a 60, sendo possível gerar entre 6 e 25 resultados por vez.
             </p>
             <div>
