@@ -6,7 +6,7 @@ Deploy do projeto: https://gerador-mega-sena.vercel.app/
 Para utilizar o programa use: 
 
 ```
-git clone https://github.com/viniciuslima21/megaSena.git
+git clone https://github.com/viniciuslimaan/megaSena.git
 ```
 
 ## Tecnologias utilizadas
